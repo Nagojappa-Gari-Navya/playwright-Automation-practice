@@ -1,0 +1,9 @@
+launch the url
+login
+search the product
+add the product to card
+select the delivery address
+do the payment with net banking
+order success
+cansel the order
+after all tests

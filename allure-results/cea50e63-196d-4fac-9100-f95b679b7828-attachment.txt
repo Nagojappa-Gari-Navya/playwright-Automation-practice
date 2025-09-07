@@ -1,0 +1,9 @@
+before all tests
+launch the url
+login
+search the product
+add the product to card
+select the delivery address
+do the payment with debit card
+order success
+cansel the order
